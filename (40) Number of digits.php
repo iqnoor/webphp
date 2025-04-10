@@ -13,5 +13,5 @@ function countDigits($number) {
 
 $number = 123456;
 echo "The number of digits in " . $number . " is: " . countDigits($number) . "<br>";
-echo "This Program is written by Sarvesh Bhardwaj 0221BCA062";
+echo "By Iqnoor 0221BCA138";
 ?>
