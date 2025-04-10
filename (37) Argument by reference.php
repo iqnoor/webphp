@@ -10,5 +10,5 @@ echo $mynum ."<br>";
 
 selfMultiply ($mynum);
 echo $mynum ."<br>";
-echo"This Program is written by Sarvesh Bhardwaj 0221BCA062"
+echo"By Iqnoor 0221BCA138"
 ?>
